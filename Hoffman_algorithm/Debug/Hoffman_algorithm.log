@@ -1,0 +1,35 @@
+﻿  Hoffman_algorithm.cpp
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(55,25): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(80,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman_algorithm.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman_algorithm.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(86,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(85): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(85): message :         with
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(85): message :         [
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(85): message :             T=Tree_Hoffman::Node
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(85): message :         ]
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(74): message :         with
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(74): message :         [
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(74): message :             T=Tree_Hoffman::Node
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(74): message :         ]
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(32): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Tree_Hoffman::Node>"
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(95,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(63,28): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(62): message : во время компиляции функции-члена класс шаблон "void List<Tree_Hoffman::Node>::insert(T,size_t)"
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(62): message :         with
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(62): message :         [
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(62): message :             T=Tree_Hoffman::Node
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(62): message :         ]
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Tree_Hoffman::Node>::insert(T,size_t)"
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(82): message :         with
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(82): message :         [
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(82): message :             T=Tree_Hoffman::Node
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(82): message :         ]
+C:\Users\ROG\source\repos\Hoffman_algorithm\List.h(71,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Hoffman_algorithm\Hoffman.h(45): warning C4172: возвращение адреса локальной или временной переменной : hoffman
+C:\Users\ROG\source\repos\Hoffman_algorithm\Map.h(145): warning C4715: Map<char,int>::find_value: значение возвращается не при всех путях выполнения
+  Hoffman_algorithm.vcxproj -> C:\Users\ROG\source\repos\Hoffman_algorithm\Debug\Hoffman_algorithm.exe
